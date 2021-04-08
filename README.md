@@ -204,7 +204,7 @@ function newElement() {
 </html>
 
 
-<!DOCTYPE html>
+
 <html>
 <head>
 <style>
